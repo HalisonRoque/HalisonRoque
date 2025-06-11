@@ -74,6 +74,14 @@ Me chamo Halison Roque, tenho 29 anos e sou natural da Paraíba. Concluí meu te
 />
 <img 
     align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Vue.js" 
     title="Vue"
     width="30px" 
