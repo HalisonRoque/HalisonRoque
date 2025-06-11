@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Halison Roque
+# Halison Roque
 
 **`Desenvolvedora FullStack`**
 
