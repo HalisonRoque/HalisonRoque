@@ -1,6 +1,6 @@
 # Halison Roque
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Halison Roque, tenho 29 anos e sou natural da Paraíba. Concluí meu tecnologo em Análise e Desenvolvimento de Sistemas e logo depois concluí minha Pós em Engenharia de Dados. Atualmente, estou cursando minha segunda Pós Graduação em Inteligência Artificial, todas as minhas formações foram na UNOPAR. Sou apaixonado por tecnologia desde pequeno onde me encantava por lógica e números, apesar de começar um pouco tarde na área so me mostra o quanto persisti no meu objetivo.
 <p align="left">
@@ -107,23 +107,3 @@ Me chamo Halison Roque, tenho 29 anos e sou natural da Paraíba. Concluí meu te
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HalisonRoque&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalisonRoque&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
